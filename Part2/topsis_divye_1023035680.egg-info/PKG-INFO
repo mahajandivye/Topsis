@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: topsis-divye-102303568
+Version: 1.0.0
+Summary: TOPSIS implementation as a Python package
+Author: Divye
+Author-email: dmahajan_be23@thapar.edu
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
